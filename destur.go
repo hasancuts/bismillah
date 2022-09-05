@@ -1,9 +1,11 @@
-package road_to_civ
+package destor
 
-func hello() string {
-	return "Hello!"
+import "fmt"
+
+func hello() {
+	fmt.Println("Hello!")
 }
 
-func bye() string {
-	return "Bye!"
+func bye() {
+	fmt.Println("Bye")
 }
