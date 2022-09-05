@@ -1,4 +1,4 @@
-package destor
+package destur
 
 import "fmt"
 
